@@ -3,6 +3,6 @@ function theTruth() {
 }
 
 
-function favoriteIceCream() {
-  debugger
+function favoriteIceCream(flavor) {
+  return `I love ${flavor}`;
 }
